@@ -22,7 +22,7 @@ Here are some ideas to get you started:
             <div align="center">
                 <p align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
                 <p align="center">
-                    <a href="https://github.com/U109/vitepress-blog/blob/master/docs/public/index/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87.png"><img alt="[ManDAO](https://github.com/U109/vitepress-blog/blob/master/docs/public/index/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87.png)" src="https://user-images.githubusercontent.com/29084184/193869235-4b882df0-09f9-47a6-b405-c361f97b0360.png" width="320" height="100%" title="ManDAO"></a>
+                    <a href="https://github.com/U109/U109/images/shit-bear.png"><img alt="[ManDAO](https://github.com/U109/U109/images/shit-bear.png)" src="https://github.com/U109/U109/images/shit-bear.png" width="320" height="100%" title="ManDAO"></a>
                 </p>
                 <p>漫山岛 ManDAO</p>
                 <blockquote>
