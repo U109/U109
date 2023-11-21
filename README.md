@@ -22,7 +22,7 @@ Here are some ideas to get you started:
             <div align="center">
                 <p align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
                 <p align="center">
-                    <a href="https://github.com/U109/U109/images/shit-bear.png"><img alt="[ManDAO](https://github.com/U109/U109/images/shit-bear.png)" src="https://github.com/U109/U109/images/shit-bear.png" width="320" height="100%" title="ManDAO"></a>
+                    <a href="images/shit-bear.png"><img alt="[ManDAO](images/shit-bear.png)" src="images/shit-bear.png" width="320" height="100%" title="ManDAO"></a>
                 </p>
                 <p>漫山岛 ManDAO</p>
                 <blockquote>
