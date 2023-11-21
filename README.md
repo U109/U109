@@ -60,7 +60,10 @@ Here are some ideas to get you started:
 ![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat)
 
 <!-- GitHub 数据统计 -->
-<img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=U109&theme=graywhite" />
-<img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=U109&theme=graywhite" />
+<div align="center">
+<span>  </span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=U109" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=U109&layout=compact&langs_count=8" />
+<span>  </span>
+</div>
 
 </div>
