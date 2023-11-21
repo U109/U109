@@ -1,20 +1,20 @@
 <div align="center" >
-  <table align="center" style="table-layout: auto; width: 100%;border:none">
+  <table align="center" style="table-layout: auto; width: 100%;">
       <tr>
           <td>
               <div align="center">
                   <p align="center">
-                      <a href="images/shit-bear.png"><img alt="[ManDAO](images/shit-bear.png)" src="images/shit-bear.png" width="320" height="100%" title="ManDAO"></a>
+                      <a href="images/shit-bear.png"><img alt="[Free](images/shit-bear.png)" src="images/shit-bear.png" width="320" height="100%" title="Free"></a>
                   </p>
                   <p></p>
                   <blockquote>
-                    <p>在生命中可以自由的飞翔！<br><sub>生命诚可贵，爱情价更高。若为自由故，二者皆可抛。</sub></p>
+                    <p>在生命中可以自由地飞翔！<br><sub>生命诚可贵，爱情价更高。若为自由故，二者皆可抛。</sub></p>
                   </blockquote>
               </div>
           </td>
       </tr>
   </table>
-</div>
+
 
 **U109/U109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -48,4 +48,4 @@ Here are some ideas to get you started:
 <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=U109&layout=compact&langs_count=8" />
 </div>
 
-
+</div>
