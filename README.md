@@ -1,14 +1,3 @@
-<style>
-.markdown-body table {
-    display: block;
-    width: 100%;
-    display: table;
-    /* width: max-content; */
-    max-width: 100%;
-    overflow: auto;
-}
-</style>
-
 **U109/U109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -25,8 +14,7 @@ Here are some ideas to get you started:
   
 <div align="center" >
 
-
-<table align="center" style="width: 100%;">
+<table align="center" style="table-layout: auto; width: 100%;">
     <tr>
         <td>
             <div align="center">
@@ -38,7 +26,7 @@ Here are some ideas to get you started:
                   <p>漫，既是一种生活方式，更是一种生活态度！<br><sub>Geekdom is not only a way of life but also an attitude towards life! </sub></p>
                 </blockquote>
                 <p align="right">
-                  Code with <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"><img class="emoji" alt="heart" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"></g-emoji> &amp; <g-emoji class="g-emoji" alias="coffee" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2615.png"><img class="emoji" alt="coffee" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2615.png"></g-emoji> &nbsp;&nbsp; <a href="https://github.com/Charmve">@Charmve</a> 2017~2023 &nbsp;
+                  Code with <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"><img class="emoji" alt="heart" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"></g-emoji> <g-emoji class="g-emoji" alias="coffee" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2615.png"><img class="emoji" alt="coffee" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2615.png"></g-emoji>  <a href="https://github.com/Charmve">@Charmve</a> 2017~2023 ;
                 </p>
             </div>
         </td>
@@ -66,3 +54,14 @@ Here are some ideas to get you started:
 </div>
 
 </div>
+
+<style>
+.markdown-body table {
+    display: block;
+    width: 100%;
+    display: table;
+    /* width: max-content; */
+    max-width: 100%;
+    overflow: auto;
+}
+</style>
