@@ -1,3 +1,13 @@
+<style>
+.markdown-body table {
+    display: block;
+    width: 100%;
+    display: table;
+    /* width: max-content; */
+    max-width: 100%;
+    overflow: auto;
+}
+</style>
 
 **U109/U109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +26,7 @@ Here are some ideas to get you started:
 <div align="center" >
 
 
-<table align="center" style="table-layout: auto; width: 100%; display:table">
+<table align="center" style="table-layout: auto; width: 100%;">
     <tr>
         <td>
             <div align="center">
