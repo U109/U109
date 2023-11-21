@@ -14,7 +14,7 @@ Here are some ideas to get you started:
   
 <div align="center" >
 
-<table align="center" style="table-layout: auto; width: 100%;">
+<table align="center" style="table-layout: auto; width: 100%;border:none">
     <tr>
         <td>
             <div align="center">
